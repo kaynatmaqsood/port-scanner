@@ -1,5 +1,3 @@
-"""Reporting module for Port Scanner."""
-
 import os
 import csv
 from datetime import datetime
